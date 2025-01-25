@@ -1,0 +1,28 @@
+body{
+    background-image:linear-gradient(rgb(111, 111, 235),purple,pink);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 2800px;
+    text-align: center;
+
+}
+
+#container{
+      color: rgb(194, 191, 4);
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 20px;
+      font-weight: bolder;
+      
+}
+button{
+    background-color: rgb(13, 217, 235);
+    border-radius:50px ;
+    border: 2px solid blueviolet;
+    padding:10px 10px ;
+}
+h3{
+    color:rgb(198, 144, 224)
+}
+input{
+    text-align: center;
+}
